@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "coentro",
+      "price": 5.00,
+      "image": "images/coentro.jpg"
+    },
+    {
+      "id": 2,
+      "name": "manjericao",
+      "price": 5.00,
+      "image": "images/manjericao.jpg"
+    },
+    {
+      "id": 3,
+      "name": "hortela",
+      "price": 5.00,
+      "image": "images/hortela.jpg"
+    },
+    {
+      "id": 4,
+      "name": "alecrim",
+      "price": 5.00,
+      "image": "images/alecrim.jpg"
+    }
+  ]
+}
